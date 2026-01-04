@@ -1,0 +1,887 @@
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:34:39"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:34:39"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:34:39"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:34:43"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:34:43"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:34:43"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:34:43"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":6088,"port":"3000","timestamp":"2026-01-04 08:34:43","url":"http://localhost:3000"}
+{"ip":"::1","level":"warn","message":"Route not found","method":"GET","path":"/favicon.ico","timestamp":"2026-01-04 08:34:52","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:17"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:17"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:17"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:20"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:21"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:21"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:36:25"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:36:25"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:36:25"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:36:25"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":15644,"port":"3000","timestamp":"2026-01-04 08:36:25","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:30"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:31"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:31"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:34"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:35"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:35"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:36:39"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:36:39"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:36:39"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:36:39"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19292,"port":"3000","timestamp":"2026-01-04 08:36:39","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:41"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:42"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:42"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:45"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:46"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:46"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:36:50"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:36:50"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:36:50"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:36:50"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":2348,"port":"3000","timestamp":"2026-01-04 08:36:50","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:51"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:51"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:51"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:36:55"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:36:56"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:36:56"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:37:00"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:37:00"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:37:00"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:37:00"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":21964,"port":"3000","timestamp":"2026-01-04 08:37:00","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:02"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:03"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:03"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:37:07"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:37:07"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:37:07"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:37:07"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":13672,"port":"3000","timestamp":"2026-01-04 08:37:07","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:10"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:10"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:11"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:37:15"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:37:15"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:37:15"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:37:15"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16072,"port":"3000","timestamp":"2026-01-04 08:37:15","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:17"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:17"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:17"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:37:21"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:37:21"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:37:21"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:37:21"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19572,"port":"3000","timestamp":"2026-01-04 08:37:21","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:26"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:26"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:26"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:30"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:31"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:31"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:37:35"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:37:35"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:37:35"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:37:35"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":9140,"port":"3000","timestamp":"2026-01-04 08:37:35","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:38"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:38"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:38"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:42"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:43"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:43"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:37:47"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:37:47"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:37:47"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:37:47"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":8992,"port":"3000","timestamp":"2026-01-04 08:37:47","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:37:52"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:37:52"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:37:52"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:37:56"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:37:56"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:37:56"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:37:56"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":2156,"port":"3000","timestamp":"2026-01-04 08:37:56","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:38:09"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:38:10"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:38:10"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:38:14"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:38:14"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:38:14"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:38:14"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":1736,"port":"3000","timestamp":"2026-01-04 08:38:14","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:38:19"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:38:20"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:38:20"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:38:24"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:38:24"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:38:24"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:38:24"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":592,"port":"3000","timestamp":"2026-01-04 08:38:24","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:38:30"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:38:30"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:38:30"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:38:34"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:38:34"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:38:34"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:38:34"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":18668,"port":"3000","timestamp":"2026-01-04 08:38:34","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:38:35"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:38:36"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:38:36"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:38:40"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:38:40"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:38:40"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:38:40"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":13444,"port":"3000","timestamp":"2026-01-04 08:38:40","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:39:02"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:39:02"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:39:02"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:39:07"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:39:07"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:39:07"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:39:07"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19572,"port":"3000","timestamp":"2026-01-04 08:39:07","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:45:16"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:45:17"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:45:17"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:45:21"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:45:21"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:45:21"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:45:21"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16892,"port":"3000","timestamp":"2026-01-04 08:45:21","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:45:38"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:45:38"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:45:39"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:45:43"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:45:43"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:45:43"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:45:47"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:45:47"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:45:47"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:45:47"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":2856,"port":"3000","timestamp":"2026-01-04 08:45:47","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:45:53"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:45:54"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:45:54"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:45:58"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:45:58"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:45:58"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:45:58"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16204,"port":"3000","timestamp":"2026-01-04 08:45:58","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:45:59"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:46:00"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:46:00"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:46:04"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:46:04"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:46:04"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:46:04"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":15380,"port":"3000","timestamp":"2026-01-04 08:46:04","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:46:14"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:46:15"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:46:15"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:46:19"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:46:19"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:46:19"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:46:19"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19892,"port":"3000","timestamp":"2026-01-04 08:46:19","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:49:14"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:49:14"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:49:14"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:49:18"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:49:18"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:49:18"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:49:18"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19732,"port":"3000","timestamp":"2026-01-04 08:49:18","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:49:54"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:49:54"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:49:54"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:49:58"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:49:58"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:49:58"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:49:58"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":14212,"port":"3000","timestamp":"2026-01-04 08:49:58","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:50:05"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:50:06"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:50:06"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:50:10"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:50:10"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:50:10"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:50:10"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":9024,"port":"3000","timestamp":"2026-01-04 08:50:10","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:50:13"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:50:13"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:50:13"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:50:17"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:50:17"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:50:17"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:50:17"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":22184,"port":"3000","timestamp":"2026-01-04 08:50:17","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:50:27"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:50:28"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:50:28"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:50:32"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:50:32"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:50:32"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:50:32"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":1228,"port":"3000","timestamp":"2026-01-04 08:50:32","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:53:12"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:53:12"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:53:13"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:53:16"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:53:16"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:53:17"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:53:21"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:53:21"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:53:21"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:53:21"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":17252,"port":"3000","timestamp":"2026-01-04 08:53:21","url":"http://localhost:3000"}
+{"level":"info","message":"\n👋 Señal SIGINT recibida. Cerrando servidor...","timestamp":"2026-01-04 08:53:30"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 08:53:45"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 08:53:46"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 08:53:46"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 08:53:50"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 08:53:50"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 08:53:50"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 08:53:50"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":13456,"port":"3000","timestamp":"2026-01-04 08:53:50","url":"http://localhost:3000"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"GET","path":"/api/v1/categories","timestamp":"2026-01-04 08:54:23","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:10:29"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:10:29"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:10:29"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:10:33"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:10:33"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:10:33"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:10:33"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19524,"port":"3000","timestamp":"2026-01-04 09:10:33","url":"http://localhost:3000"}
+{"level":"info","message":"\n👋 Señal SIGINT recibida. Cerrando servidor...","timestamp":"2026-01-04 09:11:51"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:12:39"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:12:39"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:12:39"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:12:43"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:12:43"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:12:43"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:12:43"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19204,"port":"3000","timestamp":"2026-01-04 09:12:43","url":"http://localhost:3000"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en get","timestamp":"2026-01-04 09:17:24"}
+{"level":"info","message":"Email enviado","messageId":"<e283f7be-4a53-7c98-cdbe-be67b20e1d04@expastore.com>","subject":"🔑 Tu código de acceso a Expastore","timestamp":"2026-01-04 09:17:31","to":"infojohnjairo@gmail.com"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en incr","timestamp":"2026-01-04 09:17:31"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en expire","timestamp":"2026-01-04 09:17:31"}
+{"deviceHash":"1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"info","message":"PIN de login enviado","timestamp":"2026-01-04 09:17:31","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::1","level":"error","message":"INVALID_CREDENTIALS","method":"POST","path":"/api/v1/auth/login/verify-pin","stack":"Error: INVALID_CREDENTIALS\n    at AuthService.verifyLoginPin (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\services\\auth.service.js:272:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\auth.controller.js:90:18","timestamp":"2026-01-04 09:18:23"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en del","timestamp":"2026-01-04 09:18:51"}
+{"error":"The client is closed","key":"refresh_token:6484714e-4051-4007-a1a6-d745b3a51048:1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"error","message":"Redis: Error en setEx","timestamp":"2026-01-04 09:18:51"}
+{"deviceHash":"1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"info","message":"Tokens generados","timestamp":"2026-01-04 09:18:51","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"deviceHash":"1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"info","message":"Login exitoso","timestamp":"2026-01-04 09:18:51","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::1","level":"warn","message":"Route not found","method":"POST","path":"/api/v1/categories","timestamp":"2026-01-04 09:19:16","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; es-EC) WindowsPowerShell/5.1.26100.7462"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"POST","path":"/api/v1/categories","timestamp":"2026-01-04 09:21:28","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:27:02"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:27:03"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:27:03"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:27:07"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:27:07"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:27:07"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:27:07"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":12084,"port":"3000","timestamp":"2026-01-04 09:27:07","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:27:17"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:27:18"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:27:18"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:27:22"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:27:22"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:27:22"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:27:22"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16080,"port":"3000","timestamp":"2026-01-04 09:27:22","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:27:45"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:27:46"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:27:46"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:27:50"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:27:50"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:27:50"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:27:50"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":5536,"port":"3000","timestamp":"2026-01-04 09:27:50","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:27:52"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:27:52"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:27:52"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:28:04"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:28:05"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:28:05"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:28:09"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:28:09"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:28:09"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:28:09"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":14548,"port":"3000","timestamp":"2026-01-04 09:28:09","url":"http://localhost:3000"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"No autenticado","method":"POST","path":"/api/v1/categories","stack":"Error: No autenticado\n    at authenticate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\authenticate.js:16:13)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at deviceFingerprint (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\deviceFingerprint.js:49:5)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:346:12)","timestamp":"2026-01-04 09:28:19"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en get","timestamp":"2026-01-04 09:29:04"}
+{"level":"info","message":"Email enviado","messageId":"<66e5c10b-93aa-c32f-c7a0-e0e7c44da709@expastore.com>","subject":"🔑 Tu código de acceso a Expastore","timestamp":"2026-01-04 09:29:10","to":"infojohnjairo@gmail.com"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en incr","timestamp":"2026-01-04 09:29:10"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en expire","timestamp":"2026-01-04 09:29:10"}
+{"deviceHash":"1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"info","message":"PIN de login enviado","timestamp":"2026-01-04 09:29:10","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en del","timestamp":"2026-01-04 09:29:44"}
+{"error":"The client is closed","key":"refresh_token:6484714e-4051-4007-a1a6-d745b3a51048:1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"error","message":"Redis: Error en setEx","timestamp":"2026-01-04 09:29:44"}
+{"deviceHash":"1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"info","message":"Tokens generados","timestamp":"2026-01-04 09:29:44","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"deviceHash":"1eec87cc2e27626029fa4ea0e186d65943798fa70a9d77bf71c8632195ef0005","level":"info","message":"Login exitoso","timestamp":"2026-01-04 09:29:44","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::1","level":"error","message":"notNull Violation: Category.slug cannot be null","method":"POST","path":"/api/v1/categories","stack":"SequelizeValidationError: notNull Violation: Category.slug cannot be null\n    at InstanceValidator._validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:50:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async InstanceValidator._validateAndRunHooks (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:60:7)\n    at async InstanceValidator.validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:54:12)\n    at async model.save (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:2426:7)\n    at async Category.create (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\category.controller.js:147:20","timestamp":"2026-01-04 09:30:03","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"No autenticado","method":"POST","path":"/api/v1/categories","stack":"Error: No autenticado\n    at authenticate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\authenticate.js:16:13)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at deviceFingerprint (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\deviceFingerprint.js:49:5)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:346:12)","timestamp":"2026-01-04 09:30:34"}
+{"ip":"::1","level":"error","message":"la sintaxis de entrada no es válida para tipo uuid: «ID_DE_LA_CATEGORIA_AQUI»","method":"POST","path":"/api/v1/products","stack":"Error\n    at Query.run (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\dialects\\postgres\\query.js:50:25)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async PostgresQueryInterface.select (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\dialects\\abstract\\query-interface.js:407:12)\n    at async Category.findAll (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1140:21)\n    at async Category.findOne (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1240:12)\n    at async Category.findByPk (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1221:12)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\product.controller.js:170:20","timestamp":"2026-01-04 09:30:59","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"\n👋 Señal SIGINT recibida. Cerrando servidor...","timestamp":"2026-01-04 09:34:10"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:34:12"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:34:13"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:34:13"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:34:17"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:34:17"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:34:17"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:34:17"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":13688,"port":"3000","timestamp":"2026-01-04 09:34:17","url":"http://localhost:3000"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en get","timestamp":"2026-01-04 09:35:04"}
+{"level":"info","message":"Email enviado","messageId":"<d34fcc77-c4d5-f995-80db-de247d2b5764@expastore.com>","subject":"🔑 Tu código de acceso a Expastore","timestamp":"2026-01-04 09:35:10","to":"infojohnjairo@gmail.com"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en incr","timestamp":"2026-01-04 09:35:10"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en expire","timestamp":"2026-01-04 09:35:10"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"PIN de login enviado","timestamp":"2026-01-04 09:35:10","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en del","timestamp":"2026-01-04 09:36:25"}
+{"error":"The client is closed","key":"refresh_token:6484714e-4051-4007-a1a6-d745b3a51048:f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"error","message":"Redis: Error en setEx","timestamp":"2026-01-04 09:36:26"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"Tokens generados","timestamp":"2026-01-04 09:36:26","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"Login exitoso","timestamp":"2026-01-04 09:36:26","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"notNull Violation: Category.slug cannot be null","method":"POST","path":"/api/v1/categories","stack":"SequelizeValidationError: notNull Violation: Category.slug cannot be null\n    at InstanceValidator._validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:50:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async InstanceValidator._validateAndRunHooks (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:60:7)\n    at async InstanceValidator.validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:54:12)\n    at async model.save (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:2426:7)\n    at async Category.create (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\category.controller.js:147:20","timestamp":"2026-01-04 09:37:36","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"notNull Violation: Category.slug cannot be null","method":"POST","path":"/api/v1/categories","stack":"SequelizeValidationError: notNull Violation: Category.slug cannot be null\n    at InstanceValidator._validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:50:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async InstanceValidator._validateAndRunHooks (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:60:7)\n    at async InstanceValidator.validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:54:12)\n    at async model.save (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:2426:7)\n    at async Category.create (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\category.controller.js:147:20","timestamp":"2026-01-04 09:37:58","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"notNull Violation: Category.slug cannot be null","method":"POST","path":"/api/v1/categories","stack":"SequelizeValidationError: notNull Violation: Category.slug cannot be null\n    at InstanceValidator._validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:50:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async InstanceValidator._validateAndRunHooks (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:60:7)\n    at async InstanceValidator.validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:54:12)\n    at async model.save (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:2426:7)\n    at async Category.create (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\category.controller.js:147:20","timestamp":"2026-01-04 09:38:19","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"categoryId":"038de8e4-1773-46e1-b645-068c2bff3d9f","level":"info","message":"Categoría creada","timestamp":"2026-01-04 09:41:28","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:43:31"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:43:31"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:43:31"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:43:35"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:43:35"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:43:35"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:43:35"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":8172,"port":"3000","timestamp":"2026-01-04 09:43:35","url":"http://localhost:3000"}
+{"level":"info","message":"\n👋 Señal SIGINT recibida. Cerrando servidor...","timestamp":"2026-01-04 09:43:37"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:43:40"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:43:41"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:43:41"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:43:45"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:43:45"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:43:45"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:43:45"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":21800,"port":"3000","timestamp":"2026-01-04 09:43:45","url":"http://localhost:3000"}
+{"categoryId":"621cd8c3-0371-4ff4-b838-0a21edceb7a1","level":"info","message":"Categoría creada","timestamp":"2026-01-04 09:44:03","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"llave duplicada viola restricción de unicidad «categories_slug_key»","method":"POST","path":"/api/v1/categories","stack":"Error\n    at Query.run (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\dialects\\postgres\\query.js:50:25)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async PostgresQueryInterface.insert (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\dialects\\abstract\\query-interface.js:308:21)\n    at async model.save (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:2490:35)\n    at async Category.create (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\category.controller.js:147:20","timestamp":"2026-01-04 09:44:24","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"Expected ':' after property name in JSON at position 235 (line 9 column 24)","method":"POST","path":"/api/v1/products","stack":"SyntaxError: Expected ':' after property name in JSON at position 235 (line 9 column 24)\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\body-parser@1.20.4\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\body-parser@1.20.4\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)\n    at invokeCallback (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\raw-body@2.5.3\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\raw-body@2.5.3\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\raw-body@2.5.3\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:524:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2026-01-04 09:47:21"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"notNull Violation: Product.slug cannot be null,\nnotNull Violation: Product.sku cannot be null","method":"POST","path":"/api/v1/products","stack":"SequelizeValidationError: notNull Violation: Product.slug cannot be null,\nnotNull Violation: Product.sku cannot be null\n    at InstanceValidator._validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:50:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async InstanceValidator._validateAndRunHooks (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:60:7)\n    at async InstanceValidator.validate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\instance-validator.js:54:12)\n    at async model.save (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:2426:7)\n    at async Product.create (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\product.controller.js:175:19","timestamp":"2026-01-04 09:48:48","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:50:42"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:50:42"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:50:42"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:50:47"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:50:47"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:50:47"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:50:47"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":8376,"port":"3000","timestamp":"2026-01-04 09:50:47","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:51:16"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:51:16"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:51:16"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:51:20"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:51:20"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:51:20"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:51:20"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":17136,"port":"3000","timestamp":"2026-01-04 09:51:20","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 09:51:21"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 09:51:22"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 09:51:22"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 09:51:26"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 09:51:26"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 09:51:26"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 09:51:26"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16040,"port":"3000","timestamp":"2026-01-04 09:51:26","url":"http://localhost:3000"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"No autenticado","method":"POST","path":"/api/v1/products","stack":"Error: No autenticado\n    at authenticate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\authenticate.js:16:13)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at deviceFingerprint (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\deviceFingerprint.js:49:5)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:346:12)","timestamp":"2026-01-04 09:51:30"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en get","timestamp":"2026-01-04 09:56:24"}
+{"level":"info","message":"Email enviado","messageId":"<70ee2ac6-08ef-fcb9-1558-b810d8512139@expastore.com>","subject":"🔑 Tu código de acceso a Expastore","timestamp":"2026-01-04 09:56:31","to":"infojohnjairo@gmail.com"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en incr","timestamp":"2026-01-04 09:56:31"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en expire","timestamp":"2026-01-04 09:56:31"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"PIN de login enviado","timestamp":"2026-01-04 09:56:31","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en del","timestamp":"2026-01-04 09:56:53"}
+{"error":"The client is closed","key":"refresh_token:6484714e-4051-4007-a1a6-d745b3a51048:f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"error","message":"Redis: Error en setEx","timestamp":"2026-01-04 09:56:53"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"Tokens generados","timestamp":"2026-01-04 09:56:53","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"Login exitoso","timestamp":"2026-01-04 09:56:53","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"Producto creado","productId":"163a222a-05b6-4b89-8ba3-ebc54372f107","timestamp":"2026-01-04 09:57:08","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 10:05:27"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 10:05:27"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 10:05:27"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 10:05:31"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 10:05:31"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 10:05:31"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 10:05:31"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":5132,"port":"3000","timestamp":"2026-01-04 10:05:31","url":"http://localhost:3000"}
+{"level":"info","message":"Producto creado","productId":"56cd4482-65db-42e6-a5b9-111fd1b26c32","timestamp":"2026-01-04 10:05:58","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 11:22:23"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 11:22:24"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 11:22:24"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 11:22:28"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 11:22:28"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 11:22:28"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 11:22:28"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":8928,"port":"3000","timestamp":"2026-01-04 11:22:28","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 11:22:41"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 11:22:41"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 11:22:41"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 11:22:45"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 11:22:45"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 11:22:45"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 11:22:45"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":15024,"port":"3000","timestamp":"2026-01-04 11:22:45","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:05:13"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:05:14"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:05:14"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:05:18"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:05:18"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:05:18"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:05:23"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:05:23"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:05:24"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:05:28"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:05:28"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:05:28"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:05:28"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":21668,"port":"3000","timestamp":"2026-01-04 13:05:28","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:05:29"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:05:30"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:05:30"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:05:34"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:05:34"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:05:34"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:05:34"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":20404,"port":"3000","timestamp":"2026-01-04 13:05:34","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:05:41"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:05:41"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:05:41"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:05:45"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:05:45"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:05:45"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:05:45"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":7856,"port":"3000","timestamp":"2026-01-04 13:05:45","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:05:50"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:05:50"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:05:51"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:05:55"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:05:55"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:05:55"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:05:55"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":21156,"port":"3000","timestamp":"2026-01-04 13:05:55","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:05:59"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:05:59"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:05:59"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:06:03"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:06:03"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:06:03"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:06:03"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16840,"port":"3000","timestamp":"2026-01-04 13:06:03","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:06:15"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:06:16"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:06:16"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:06:20"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:06:20"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:06:20"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:06:20"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":23140,"port":"3000","timestamp":"2026-01-04 13:06:20","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:06:29"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:06:30"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:06:30"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:06:34"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:06:34"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:06:34"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:06:34"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":17960,"port":"3000","timestamp":"2026-01-04 13:06:34","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:06:56"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:06:57"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:06:57"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:07:01"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:07:01"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:07:01"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:07:01"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16292,"port":"3000","timestamp":"2026-01-04 13:07:01","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:07:13"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:07:14"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:07:14"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:07:18"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:07:18"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:07:18"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:07:18"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19752,"port":"3000","timestamp":"2026-01-04 13:07:18","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:07:20"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:07:20"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:07:21"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:07:25"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:07:25"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:07:25"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:07:25"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":22264,"port":"3000","timestamp":"2026-01-04 13:07:25","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:08:28"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:08:29"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:08:29"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:08:33"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:08:33"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:08:33"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:08:33"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":2980,"port":"3000","timestamp":"2026-01-04 13:08:33","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:08:49"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:08:49"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:08:50"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:08:54"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:08:54"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:08:54"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:08:54"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":18008,"port":"3000","timestamp":"2026-01-04 13:08:54","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:09:03"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:09:04"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:09:04"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:09:08"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:09:08"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:09:08"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:09:08"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":12844,"port":"3000","timestamp":"2026-01-04 13:09:08","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:09:28"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:09:29"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:09:29"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:09:33"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:09:33"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:09:33"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:09:33"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":17172,"port":"3000","timestamp":"2026-01-04 13:09:33","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:09:45"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:09:46"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:09:46"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:09:50"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:09:50"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:09:50"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:09:50"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":11468,"port":"3000","timestamp":"2026-01-04 13:09:50","url":"http://localhost:3000"}
+{"level":"info","message":"\n👋 Señal SIGINT recibida. Cerrando servidor...","timestamp":"2026-01-04 13:10:44"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:11:02"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:11:03"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:11:03"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:11:07"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:11:07"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:11:07"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:11:07"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":20012,"port":"3000","timestamp":"2026-01-04 13:11:07","url":"http://localhost:3000"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"GET","path":"/api/v1/cart","timestamp":"2026-01-04 13:12:20","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:13:16"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:13:17"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:13:17"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:13:21"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:13:21"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:13:21"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:13:21"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":21672,"port":"3000","timestamp":"2026-01-04 13:13:21","url":"http://localhost:3000"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"No autenticado","method":"GET","path":"/api/v1/cart","stack":"Error: No autenticado\n    at authenticate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\authenticate.js:16:13)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at deviceFingerprint (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\deviceFingerprint.js:49:5)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:286:9","timestamp":"2026-01-04 13:13:22"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"GET","path":"/api/v1/auth/login/request-pin","timestamp":"2026-01-04 13:14:13","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en get","timestamp":"2026-01-04 13:14:25"}
+{"level":"info","message":"Email enviado","messageId":"<2aaa59a9-8f30-73d4-7935-4928b133f6a1@expastore.com>","subject":"🔑 Tu código de acceso a Expastore","timestamp":"2026-01-04 13:14:31","to":"infojohnjairo@gmail.com"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en incr","timestamp":"2026-01-04 13:14:31"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en expire","timestamp":"2026-01-04 13:14:31"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"PIN de login enviado","timestamp":"2026-01-04 13:14:31","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"error":"The client is closed","key":"login_attempts:infojohnjairo@gmail.com","level":"error","message":"Redis: Error en del","timestamp":"2026-01-04 13:15:01"}
+{"error":"The client is closed","key":"refresh_token:6484714e-4051-4007-a1a6-d745b3a51048:f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"error","message":"Redis: Error en setEx","timestamp":"2026-01-04 13:15:01"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"Tokens generados","timestamp":"2026-01-04 13:15:01","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"deviceHash":"f347c4462390be1b2a729b2eda19e3d0bed2b22450eff932b2b7849dfcaced25","level":"info","message":"Login exitoso","timestamp":"2026-01-04 13:15:01","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"GET","path":"/api/v1/auth/login/cart","timestamp":"2026-01-04 13:15:13","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"cartId":"dca68363-a014-4589-bf86-c0e8b86d739a","level":"info","message":"Carrito creado","timestamp":"2026-01-04 13:15:24","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"Expected double-quoted property name in JSON at position 77 (line 4 column 1)","method":"POST","path":"/api/v1/cart/items","stack":"SyntaxError: Expected double-quoted property name in JSON at position 77 (line 4 column 1)\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\body-parser@1.20.4\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\body-parser@1.20.4\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)\n    at invokeCallback (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\raw-body@2.5.3\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\raw-body@2.5.3\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\raw-body@2.5.3\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:524:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2026-01-04 13:16:47"}
+{"cartId":"dca68363-a014-4589-bf86-c0e8b86d739a","level":"info","message":"Item agregado al carrito","productId":"163a222a-05b6-4b89-8ba3-ebc54372f107","quantity":1,"timestamp":"2026-01-04 13:17:05"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"la sintaxis de entrada no es válida para tipo uuid: «:itemId»","method":"PATCH","path":"/api/v1/cart/items/:itemId","stack":"Error\n    at Query.run (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\dialects\\postgres\\query.js:50:25)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async PostgresQueryInterface.select (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\dialects\\abstract\\query-interface.js:407:12)\n    at async CartItem.findAll (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1140:21)\n    at async CartItem.findOne (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\sequelize@6.37.7_pg-hstore@2.3.4_pg@8.16.3\\node_modules\\sequelize\\lib\\model.js:1240:12)\n    at async CartService.updateItemQuantity (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\services\\cart.service.js:141:18)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\cart.controller.js:66:3","timestamp":"2026-01-04 13:17:35","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:21:17"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:21:17"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:21:17"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:21:18"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:21:19"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:21:19"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:21:23"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:21:23"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:21:23"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:21:23"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":23056,"port":"3000","timestamp":"2026-01-04 13:21:23","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:21:25"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:21:26"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:21:26"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:21:30"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:21:30"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:21:30"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:21:30"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":2296,"port":"3000","timestamp":"2026-01-04 13:21:30","url":"http://localhost:3000"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"ID del ítem inválido: \":itemId\"","method":"PATCH","path":"/api/v1/cart/items/:itemId","stack":"Error: ID del ítem inválido: \":itemId\"\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\cart.controller.js:77:11\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\errorHandler.js:194:21\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2026-01-04 13:21:32","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"PATCH","path":"/api/v1/cart/items/","timestamp":"2026-01-04 13:22:34","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"ITEM_NOT_FOUND","method":"PATCH","path":"/api/v1/cart/items/6484714e-4051-4007-a1a6-d745b3a51048","stack":"Error: ITEM_NOT_FOUND\n    at CartService.updateItemQuantity (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\services\\cart.service.js:149:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\cart.controller.js:84:3","timestamp":"2026-01-04 13:23:11","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"PATCH","path":"/api/v1/cart/items","timestamp":"2026-01-04 13:24:36","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"PATCH","path":"/api/v1/cart/items","timestamp":"2026-01-04 13:24:50","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"cartId":"dca68363-a014-4589-bf86-c0e8b86d739a","level":"info","message":"Item del carrito actualizado","newQuantity":2,"productId":"163a222a-05b6-4b89-8ba3-ebc54372f107","timestamp":"2026-01-04 13:25:00"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"POST","path":"/api/v1/cart/items/:163a222a-05b6-4b89-8ba3-ebc54372f107","timestamp":"2026-01-04 13:26:03","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"POST","path":"/api/v1/cart/items/163a222a-05b6-4b89-8ba3-ebc54372f107","timestamp":"2026-01-04 13:26:09","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"GET","path":"/api/v1/cart/items/","timestamp":"2026-01-04 13:26:48","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Route not found","method":"GET","path":"/api/v1/cart/items","timestamp":"2026-01-04 13:26:52","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"cartId":"dca68363-a014-4589-bf86-c0e8b86d739a","itemId":"0b0dac73-0ff1-4fe9-8602-5767636e07e8","level":"info","message":"Cantidad de item actualizada","newQuantity":3,"timestamp":"2026-01-04 13:27:31"}
+{"cartId":"dca68363-a014-4589-bf86-c0e8b86d739a","itemId":"0b0dac73-0ff1-4fe9-8602-5767636e07e8","level":"info","message":"Item eliminado del carrito","timestamp":"2026-01-04 13:27:54"}
+{"cartId":"dca68363-a014-4589-bf86-c0e8b86d739a","level":"info","message":"Carrito limpiado","timestamp":"2026-01-04 13:28:08","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"ip":"::ffff:127.0.0.1","level":"error","message":"items debe ser un array","method":"POST","path":"/api/v1/cart/merge","stack":"Error: items debe ser un array\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\controllers\\cart.controller.js:157:11\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\errorHandler.js:194:21\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\node_modules\\.pnpm\\express@4.22.1\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at authenticate (C:\\Users\\infoj\\OneDrive\\Escritorio\\ExpaSore\\ExpaStore2.0\\ExpaStore-backend\\src\\middleware\\authenticate.js:68:5)","timestamp":"2026-01-04 13:28:56","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"error":"la sintaxis de entrada no es válida para tipo uuid: «uuid»","level":"warn","message":"Error fusionando item del carrito temporal","productId":"uuid","timestamp":"2026-01-04 13:29:06","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"error":"la sintaxis de entrada no es válida para tipo uuid: «uuid2»","level":"warn","message":"Error fusionando item del carrito temporal","productId":"uuid2","timestamp":"2026-01-04 13:29:06","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"level":"info","message":"Carrito temporal fusionado","tempItemsCount":2,"timestamp":"2026-01-04 13:29:06","userId":"6484714e-4051-4007-a1a6-d745b3a51048"}
+{"cartId":"dca68363-a014-4589-bf86-c0e8b86d739a","couponCode":"VERANO2024","level":"info","message":"Cupón aplicado al carrito","timestamp":"2026-01-04 13:29:39"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:56:58"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:56:58"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:56:58"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:57:03"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:57:04"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:57:04"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:57:08"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:57:08"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:57:08"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:57:08"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":22384,"port":"3000","timestamp":"2026-01-04 13:57:08","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:57:17"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:57:18"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:57:18"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:57:22"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:57:22"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:57:22"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:57:22"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":22648,"port":"3000","timestamp":"2026-01-04 13:57:22","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:57:27"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:57:28"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:57:28"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:57:32"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:57:32"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:57:32"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:57:32"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":17344,"port":"3000","timestamp":"2026-01-04 13:57:32","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:57:33"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:57:34"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:57:34"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:57:38"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:57:38"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:57:38"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:57:42"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:57:42"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:57:42"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:57:42"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":14960,"port":"3000","timestamp":"2026-01-04 13:57:42","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:57:54"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:57:55"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:57:55"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:57:59"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:57:59"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:57:59"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:57:59"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":6812,"port":"3000","timestamp":"2026-01-04 13:57:59","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:58:03"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:58:03"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:58:03"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:58:07"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:58:07"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:58:07"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:58:07"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16600,"port":"3000","timestamp":"2026-01-04 13:58:07","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:58:25"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:58:25"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:58:25"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:58:29"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:58:29"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:58:29"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:58:29"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":19008,"port":"3000","timestamp":"2026-01-04 13:58:29","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:58:39"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:58:39"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:58:40"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:58:43"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:58:44"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:58:44"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:58:48"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:58:48"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:58:48"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:58:52"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:58:52"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:58:52"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:58:52"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":12600,"port":"3000","timestamp":"2026-01-04 13:58:52","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:59:01"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:59:02"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:59:02"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:59:06"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:59:06"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:59:06"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:59:06"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":23152,"port":"3000","timestamp":"2026-01-04 13:59:06","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:59:10"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:59:11"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:59:11"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:59:15"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:59:15"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:59:15"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:59:15"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":20812,"port":"3000","timestamp":"2026-01-04 13:59:15","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:59:16"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:59:17"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:59:17"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:59:18"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:59:18"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:59:18"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:59:22"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:59:22"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:59:22"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:59:22"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":16212,"port":"3000","timestamp":"2026-01-04 13:59:22","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:59:42"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:59:42"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:59:42"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:59:46"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:59:46"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:59:46"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:59:46"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":11696,"port":"3000","timestamp":"2026-01-04 13:59:46","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 13:59:54"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 13:59:55"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 13:59:55"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 13:59:59"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 13:59:59"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 13:59:59"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 13:59:59"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":9644,"port":"3000","timestamp":"2026-01-04 13:59:59","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:00:08"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:00:08"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:00:08"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:00:12"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:00:12"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:00:12"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:00:12"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":2180,"port":"3000","timestamp":"2026-01-04 14:00:12","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:00:17"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:00:18"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:00:18"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:00:22"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:00:22"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:00:22"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:00:22"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":5192,"port":"3000","timestamp":"2026-01-04 14:00:22","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:00:58"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:00:59"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:00:59"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:01:03"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:01:03"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:01:03"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:01:03"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":15612,"port":"3000","timestamp":"2026-01-04 14:01:03","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:01:28"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:01:29"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:01:29"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:01:33"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:01:33"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:01:33"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:01:33"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":23464,"port":"3000","timestamp":"2026-01-04 14:01:33","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:01:45"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:01:45"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:01:46"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:01:50"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:01:50"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:01:50"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:01:50"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":14220,"port":"3000","timestamp":"2026-01-04 14:01:50","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:01:59"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:02:00"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:02:00"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:02:05"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:02:05"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:02:05"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:02:09"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:02:09"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:02:09"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:02:09"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":17376,"port":"3000","timestamp":"2026-01-04 14:02:09","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:02:32"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:02:32"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:02:32"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:02:36"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:02:36"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:02:36"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:02:36"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":23276,"port":"3000","timestamp":"2026-01-04 14:02:36","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:02:42"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:02:42"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:02:43"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:02:47"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:02:47"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:02:47"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:02:47"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":5848,"port":"3000","timestamp":"2026-01-04 14:02:47","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:03:01"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:03:02"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:03:02"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:03:05"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:03:06"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:03:06"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:03:10"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:03:10"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:03:10"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:03:10"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":21868,"port":"3000","timestamp":"2026-01-04 14:03:10","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:03:22"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:03:22"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:03:23"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:03:27"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:03:27"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:03:27"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:03:27"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":9788,"port":"3000","timestamp":"2026-01-04 14:03:27","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:03:29"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:03:29"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:03:29"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:03:33"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:03:33"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:03:33"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:03:33"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":23360,"port":"3000","timestamp":"2026-01-04 14:03:33","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:04:05"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:04:05"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:04:05"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:04:08"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:04:09"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:04:09"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:04:13"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:04:13"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:04:13"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:04:13"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":18696,"port":"3000","timestamp":"2026-01-04 14:04:13","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:04:25"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:04:26"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:04:26"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:04:31"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:04:31"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:04:31"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:04:35"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:04:35"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:04:35"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:04:35"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":5848,"port":"3000","timestamp":"2026-01-04 14:04:35","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:04:50"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:04:50"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:04:50"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:04:55"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:04:55"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:04:55"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:04:55"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":20588,"port":"3000","timestamp":"2026-01-04 14:04:55","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:04:58"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:04:59"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:04:59"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:05:03"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:05:03"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:05:03"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:05:03"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":18504,"port":"3000","timestamp":"2026-01-04 14:05:03","url":"http://localhost:3000"}
+{"level":"info","message":"Email service: Nodemailer configurado correctamente","timestamp":"2026-01-04 14:31:16"}
+{"level":"info","message":"🚀 Iniciando servidor Expastore...","timestamp":"2026-01-04 14:31:16"}
+{"level":"info","message":"✅ PostgreSQL: Conexión establecida correctamente","timestamp":"2026-01-04 14:31:17"}
+{"level":"warn","message":"❌ Redis: No se pudo conectar después de 3 intentos","timestamp":"2026-01-04 14:31:21"}
+{"error":"","level":"error","message":"❌ Redis: Error al conectar","timestamp":"2026-01-04 14:31:21"}
+{"error":"","level":"warn","message":"⚠️ Redis no disponible, continuando sin cache","timestamp":"2026-01-04 14:31:21"}
+{"level":"info","message":"ℹ️ Para usar Redis: instala y ejecuta redis-server","timestamp":"2026-01-04 14:31:21"}
+{"environment":"development","level":"info","message":"✅ Servidor iniciado correctamente","pid":7692,"port":"3000","timestamp":"2026-01-04 14:31:21","url":"http://localhost:3000"}
